@@ -64,4 +64,6 @@
 // using external dependencies
 // create package.json with `npm init` command in terminal
 // install dependencies with `npm i <package>` command in terminal
-const b = require('lodash')
+// const b = require('lodash')
+// console.log("h");
+console.log("h");
